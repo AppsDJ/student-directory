@@ -1,3 +1,5 @@
+###  COMMENCING EXERCISES AT CH 8 ###
+
 # store student names into an array
 def input_students
     puts "Please enter the names of the students"
