@@ -1,5 +1,5 @@
 ####
-# NOTE FOR CH14, EX1
+## NOTE FOR CH14, EX1
 # Due to a more elaborate implementation of method input_students (as compared
 # to the given one in the MA tutorial) the refactoring of input_students and
 # load_students was limited to creation of new method build_student_record to
